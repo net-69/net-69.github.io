@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.256fa4e0.css",
+    "main.js": "/static/js/main.d87269ef.js",
+    "static/js/453.d50c76e3.chunk.js": "/static/js/453.d50c76e3.chunk.js",
+    "static/media/FiraCode.ttf": "/static/media/FiraCode.ea32261131becc79ea84.ttf",
+    "index.html": "/index.html",
+    "main.256fa4e0.css.map": "/static/css/main.256fa4e0.css.map",
+    "main.d87269ef.js.map": "/static/js/main.d87269ef.js.map",
+    "453.d50c76e3.chunk.js.map": "/static/js/453.d50c76e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.256fa4e0.css",
+    "static/js/main.d87269ef.js"
+  ]
+}
