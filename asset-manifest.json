@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.59ce8516.css",
-    "main.js": "/static/js/main.a77d2fb6.js",
+    "main.js": "/static/js/main.b82bdd5a.js",
     "static/media/slots.jpg": "/static/media/slots.aef4d59502ab5246f63b.jpg",
     "static/media/flat.jpg": "/static/media/flat.63a29d02dc405614fd16.jpg",
     "static/media/databases.jpg": "/static/media/databases.d8d9ca11e043dba7f1da.jpg",
@@ -9,13 +9,14 @@
     "static/media/tower.jpg": "/static/media/tower.079ff76eb432b35c0b4c.jpg",
     "static/media/FiraCode.ttf": "/static/media/FiraCode.ea32261131becc79ea84.ttf",
     "static/media/fortune.jpg": "/static/media/fortune.b9c556956e2b78ba7f2e.jpg",
+    "static/media/people.jpg": "/static/media/people.3e4e609cf6f96541497f.jpg",
     "static/media/forest.jpg": "/static/media/forest.f16ddf6e5cf2f3d26f45.jpg",
     "index.html": "/index.html",
     "main.59ce8516.css.map": "/static/css/main.59ce8516.css.map",
-    "main.a77d2fb6.js.map": "/static/js/main.a77d2fb6.js.map"
+    "main.b82bdd5a.js.map": "/static/js/main.b82bdd5a.js.map"
   },
   "entrypoints": [
     "static/css/main.59ce8516.css",
-    "static/js/main.a77d2fb6.js"
+    "static/js/main.b82bdd5a.js"
   ]
 }
