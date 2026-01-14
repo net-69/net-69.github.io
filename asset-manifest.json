@@ -1,23 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.59ce8516.css",
-    "main.js": "/static/js/main.ea039ac2.js",
+    "main.js": "/static/js/main.6149b007.js",
     "static/media/farm.jpg": "/static/media/farm.158a2c59c07cfa980238.jpg",
     "static/media/slots.jpg": "/static/media/slots.aef4d59502ab5246f63b.jpg",
-    "static/media/flat.jpg": "/static/media/flat.63a29d02dc405614fd16.jpg",
     "static/media/databases.jpg": "/static/media/databases.d8d9ca11e043dba7f1da.jpg",
-    "static/media/interface.jpg": "/static/media/interface.f7608bfd8edc2940191b.jpg",
-    "static/media/tower.jpg": "/static/media/tower.079ff76eb432b35c0b4c.jpg",
     "static/media/FiraCode.ttf": "/static/media/FiraCode.ea32261131becc79ea84.ttf",
-    "static/media/fortune.jpg": "/static/media/fortune.b9c556956e2b78ba7f2e.jpg",
     "static/media/people.jpg": "/static/media/people.3e4e609cf6f96541497f.jpg",
     "static/media/forest.jpg": "/static/media/forest.f16ddf6e5cf2f3d26f45.jpg",
+    "static/media/guild.png": "/static/media/guild.ffe5cbc724b92b209b00.png",
+    "static/media/talisman.png": "/static/media/talisman.70c666b69a21fbd1d2cd.png",
+    "static/media/auction.png": "/static/media/auction.6e6821729273587aa7c7.png",
+    "static/media/kits.png": "/static/media/kits.3c1ca23c310dd6028256.png",
+    "static/media/box.png": "/static/media/box.b792b30e25a8df3a83dc.png",
+    "static/media/drill.png": "/static/media/drill.f148b8496a237c7ab2b7.png",
+    "static/media/events.png": "/static/media/events.a9fb334d8deffb4710ca.png",
+    "static/media/delivery.png": "/static/media/delivery.8d1d6cd87d16e9867501.png",
     "index.html": "/index.html",
     "main.59ce8516.css.map": "/static/css/main.59ce8516.css.map",
-    "main.ea039ac2.js.map": "/static/js/main.ea039ac2.js.map"
+    "main.6149b007.js.map": "/static/js/main.6149b007.js.map"
   },
   "entrypoints": [
     "static/css/main.59ce8516.css",
-    "static/js/main.ea039ac2.js"
+    "static/js/main.6149b007.js"
   ]
 }
